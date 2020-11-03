@@ -1,0 +1,14 @@
+{
+  "name": "bone-bot",
+  "version": "1.0.0",
+  "description": "My first Discord Bot",
+  "main": "bot.js",
+  "scripts": {
+    "test": "!intro"
+  },
+  "author": "Purebone",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.4.1"
+  }
+}
