@@ -1,0 +1,19 @@
+
+- Use auth.json to add more expandable permissions given
+
+- Be able to add roles 
+
+- !curse
+	- Disconnects someone repeatadly for 1 minute
+	- lets them join a channel for 0.5s
+	
+- !buy 
+	- purchase using some form of currency 
+	-hazmat
+		-prevents one use of nuke
+		
+-!nuke 
+	- add 15 minutes cooldown
+	- send message in chat to notify when armed
+	- Loading bar?
+	- Implement overrides
